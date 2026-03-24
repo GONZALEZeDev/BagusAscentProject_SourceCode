@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 99b56a12ff1ee884681a3eef05b22510
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defaultMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - sp: {instanceID: 0}
+  - animController: {fileID: 9100000, guid: 7df3786da1757ad4c8b6c0880c937c92, type: 2}
+  - animator: {instanceID: 0}
+  - sideSprite: {fileID: -684413485, guid: ca7456d5ccd33734fa1741747ba05c24, type: 3}
+  - faceSprite: {fileID: 21300000, guid: 56842bd575710b841b1453ab3dc23a98, type: 3}
+  - deadSprite: {fileID: -684413485, guid: ca7456d5ccd33734fa1741747ba05c24, type: 3}
+  - shadow: {instanceID: 0}
+  - target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
